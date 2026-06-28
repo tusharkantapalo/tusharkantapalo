@@ -1,16 +1,125 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tusharkanta Palo</h1>
 
-<!--
-**tusharkantapalo/tusharkantapalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer Science & Engineering Undergraduate | Python Developer | Software Engineering Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a **Computer Science and Engineering undergraduate** at **Silicon Institute of Technology (SIT), Bhubaneswar**, passionate about software development, problem-solving, and emerging technologies.
+
+I enjoy transforming ideas into practical software solutions while continuously improving my programming and engineering skills.
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Strong foundation in **Python, C, and Data Structures & Algorithms**
+- 🌐 Familiar with **HTML & CSS** for responsive web development
+- 🤖 Currently exploring **Artificial Intelligence** and **Machine Learning**
+- 🚀 Interested in **Software Engineering**, **Backend Development**, and **Full-Stack Development**
+- 📚 Passionate about continuous learning and building impactful projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C
+
+### Computer Science Fundamentals
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+
+### Web Development
+- HTML
+- CSS
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 💼 Internship Experience
+
+### Python Development Intern
+
+Successfully completed a Python internship where I gained practical experience in:
+
+- Python Programming
+- Object-Oriented Programming
+- Software Development Principles
+- Writing Clean and Maintainable Code
+- Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Subscription Billing Engine
+
+A subscription billing engine developed in **Python** following the **Test-Driven Development (TDD)** methodology.
+
+**Highlights**
+
+- Object-Oriented Design
+- Test-Driven Development (TDD)
+- Unit Testing
+- Billing & Invoice Generation
+- Pricing Strategy
+- Tax Calculation
+- Discount Management
+- Clean Code Principles
+
+---
+
+### 🌐 Personal Portfolio Website
+
+A responsive personal portfolio website built using **HTML** and **CSS**.
+
+**Features**
+
+- Responsive Design
+- Modern User Interface
+- Skills Section
+- Education Section
+- Projects Showcase
+- Contact Information
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Full-Stack Web Development
+- Software Engineering Best Practices
+
+---
+
+## 🎯 Career Objective
+
+I am always eager to learn, collaborate, and contribute to innovative software projects while continuously growing as a software engineer. My goal is to build reliable, scalable, and impactful applications that solve real-world problems.
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Portfolio: **https://tusharkantapalo.github.io/html-capstone/**
+- 💼 LinkedIn: *(Add your LinkedIn profile here)*
+- 📧 Email: *(Add your email here)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github.com/tusharkantapalousername=tusharkantapalo&show_icons=true&theme=github_dark" height="170">
+  <img src="https://github.com/tusharkantapalousername=tusharkantapalo&layout=compact&theme=github_dark" height="170">
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> "Every project is an opportunity to learn something new and become a better software engineer."
