@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tusharkanta Palo</h1>
 
-<h3 align="center">Computer Science & Engineering Undergraduate | Python Developer | Software Engineering Enthusiast</h3>
+<h3 align="center">Computer Science & Engineering Undergraduate | Aspiring Software Engineer | C | C++ | Python | Data Structures & Algorithms | HTML | CSS | Exploring AI/ML</h3>
 
 ---
 
@@ -13,8 +13,8 @@ I enjoy transforming ideas into practical software solutions while continuously 
 - 🎓 B.Tech in Computer Science & Engineering
 - 💻 Strong foundation in **Python, C, and Data Structures & Algorithms**
 - 🌐 Familiar with **HTML & CSS** for responsive web development
-- 🤖 Currently exploring **Artificial Intelligence** and **Machine Learning**
-- 🚀 Interested in **Software Engineering**, **Backend Development**, and **Full-Stack Development**
+- 🤖 Currently exploring **Software Engineering**, **Backend Development**, and **Full-Stack Development**
+- 🚀 Interested in **Artificial Intelligence** and **Machine Learning**
 - 📚 Passionate about continuous learning and building impactful projects
 
 ---
@@ -105,17 +105,17 @@ I am always eager to learn, collaborate, and contribute to innovative software p
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: **https://tusharkantapalo.github.io/html-capstone/**
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
-- 📧 Email: *(Add your email here)*
+- 🌐 Portfolio: **https://tusharkantapalo.github.io/personal-portfolio/**
+- 💼 LinkedIn: *https://www.linkedin.com/in/tusharkanta-palo-70a258379/*
+- 📧 Email: *tusharkantapalo@gmail.com*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/tusharkantapalousername=tusharkantapalo&show_icons=true&theme=github_dark" height="170">
-  <img src="https://github.com/tusharkantapalousername=tusharkantapalo&layout=compact&theme=github_dark" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharkantaPalo&show_icons=true&theme=github_dark" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharkantaPalo&layout=compact&theme=github_dark" height="170" alt="Top Languages" />
 </p>
 
 ---
