@@ -114,7 +114,6 @@ I am always eager to learn, collaborate, and contribute to innovative software p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharkantaPalo&show_icons=true&theme=github_dark" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharkantaPalo&layout=compact&theme=github_dark" height="170" alt="Top Languages" />
 </p>
 
