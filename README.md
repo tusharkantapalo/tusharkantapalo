@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tusharkanta Palo</h1>
 
-<h3 align="center">Computer Science & Engineering Undergraduate | Aspiring Software Engineer | C | C++ | Python | Data Structures & Algorithms | HTML | CSS | Exploring AI/ML</h3>
+<h3 align="center">Computer Science & Engineering Undergraduate | Aspiring Software Engineer | C | Python | Data Structures & Algorithms | HTML | CSS | Exploring AI/ML</h3>
 
 ---
 
@@ -112,6 +112,6 @@ I am always eager to learn, collaborate, and contribute to innovative software p
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fact
 
 > "Every project is an opportunity to learn something new and become a better software engineer."
