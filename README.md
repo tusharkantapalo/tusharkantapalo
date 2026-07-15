@@ -24,6 +24,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 ### Programming Languages
 - Python
 - C
+- JavaScript
 
 ### Computer Science Fundamentals
 - Data Structures & Algorithms (DSA)
@@ -32,6 +33,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 ### Web Development
 - HTML
 - CSS
+- JavaScript
 
 ### Tools & Technologies
 - Git
