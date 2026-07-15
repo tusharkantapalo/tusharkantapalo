@@ -22,13 +22,13 @@ I enjoy transforming ideas into practical software solutions while continuously 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+- JavaScript
 - Python
 - C
-- JavaScript
 
 ### Computer Science Fundamentals
-- Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
 
 ### Web Development
 - HTML
