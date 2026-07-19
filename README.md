@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tusharkanta Palo</h1>
 
-<h3 align="center">Computer Science & Engineering Undergraduate | Aspiring Software Engineer | C | Python | Data Structures & Algorithms | HTML | CSS | Exploring AI/ML</h3>
+<h3 align="center">Computer Science & Engineering Undergraduate | Software Engineer | JavaScript | C | Python | Data Structures & Algorithms | HTML | CSS | Exploring AI/ML</h3>
 
 ---
 
