@@ -10,35 +10,39 @@ I am a **Computer Science and Engineering undergraduate** at **Silicon Institute
 
 I enjoy transforming ideas into practical software solutions while continuously improving my programming and engineering skills.
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Strong foundation in **Python, C, and Data Structures & Algorithms**
-- 🌐 Familiar with **HTML & CSS** for responsive web development
-- 🤖 Currently exploring **Software Engineering**, **Backend Development**, and **Full-Stack Development**
-- 🚀 Interested in **Artificial Intelligence** and **Machine Learning**
-- 📚 Passionate about continuous learning and building impactful projects
+* 🎓 B.Tech in Computer Science & Engineering
+* 💻 Strong foundation in **Python, C, and Data Structures & Algorithms**
+* 🌐 Familiar with **HTML & CSS** for responsive web development
+* 🤖 Currently exploring **Software Engineering**, **Backend Development**, and **Full-Stack Development**
+* 🚀 Interested in **Artificial Intelligence** and **Machine Learning**
+* 📚 Passionate about continuous learning and building impactful projects
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- JavaScript
-- Python
-- C
+
+* JavaScript
+* Python
+* C
 
 ### Computer Science Fundamentals
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms (DSA)
 
 ### Web Development
-- HTML
-- CSS
-- JavaScript
+
+* HTML
+* CSS
+* JavaScript
 
 ### Tools & Technologies
-- Git
-- GitHub
-- VS Code
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
@@ -48,15 +52,32 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 Successfully completed a Python internship where I gained practical experience in:
 
-- Python Programming
-- Object-Oriented Programming
-- Software Development Principles
-- Writing Clean and Maintainable Code
-- Problem Solving
+* Python Programming
+* Object-Oriented Programming
+* Software Development Principles
+* Writing Clean and Maintainable Code
+* Problem Solving
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔬 Research-Oriented Professional Website
+
+A **professional and research-oriented website** developed for my brother, designed to present his **academic background, research interests, professional profile, and related work** in a structured and accessible manner.
+
+**Highlights**
+
+* Professional and research-focused design
+* Responsive web interface
+* Structured presentation of academic and professional information
+* Research-oriented content organization
+* Clean and modern user interface
+* Designed for professional online presence
+
+🔗 **Live Website:** [View Research-Oriented Website](https://chinmayakumarpalo.netlify.app/)
+
+---
 
 ### 💳 Subscription Billing Engine
 
@@ -64,14 +85,14 @@ A subscription billing engine developed in **Python** following the **Test-Drive
 
 **Highlights**
 
-- Object-Oriented Design
-- Test-Driven Development (TDD)
-- Unit Testing
-- Billing & Invoice Generation
-- Pricing Strategy
-- Tax Calculation
-- Discount Management
-- Clean Code Principles
+* Object-Oriented Design
+* Test-Driven Development (TDD)
+* Unit Testing
+* Billing & Invoice Generation
+* Pricing Strategy
+* Tax Calculation
+* Discount Management
+* Clean Code Principles
 
 ---
 
@@ -81,21 +102,23 @@ A responsive personal portfolio website built using **HTML** and **CSS**.
 
 **Features**
 
-- Responsive Design
-- Modern User Interface
-- Skills Section
-- Education Section
-- Projects Showcase
-- Contact Information
+* Responsive Design
+* Modern User Interface
+* Skills Section
+* Education Section
+* Projects Showcase
+* Contact Information
+
+🔗 **Live Website:** [Personal Portfolio](https://tusharkantapalo.github.io/personal-portfolio/)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Full-Stack Web Development
-- Software Engineering Best Practices
+* Artificial Intelligence (AI)
+* Machine Learning (ML)
+* Full-Stack Web Development
+* Software Engineering Best Practices
 
 ---
 
@@ -107,10 +130,9 @@ I am always eager to learn, collaborate, and contribute to innovative software p
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: **https://tusharkantapalo.github.io/personal-portfolio/**
-- 💼 LinkedIn: *https://www.linkedin.com/in/tusharkanta-palo-70a258379/*
-- 📧 Email: *tusharkantapalo@gmail.com*
-
+* 🌐 Portfolio: https://tusharkantapalo.github.io/personal-portfolio/
+* 💼 LinkedIn: https://www.linkedin.com/in/tusharkanta-palo-70a258379/
+* 📧 Email: [tusharkantapalo@gmail.com](mailto:tusharkantapalo@gmail.com)
 
 ---
 
