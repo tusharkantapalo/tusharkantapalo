@@ -26,6 +26,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 * JavaScript
 * Python
 * C
+* Java
 
 ### Computer Science Fundamentals
 
@@ -37,6 +38,7 @@ I enjoy transforming ideas into practical software solutions while continuously 
 * HTML
 * CSS
 * JavaScript
+* Bootstrap (Frame Work)
 
 ### Tools & Technologies
 
