@@ -30,8 +30,9 @@ I enjoy transforming ideas into practical software solutions while continuously 
 
 ### Computer Science Fundamentals
 
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms (DSA)
+* OOP(Object-Oriented Programming)
+* DSA(Data Structures & Algorithms)
+* DAA(Design & Analysis of Algorithms)
 
 ### Web Development
 
